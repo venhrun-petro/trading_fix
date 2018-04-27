@@ -36,12 +36,12 @@
 .burger.opened .burger-menu:last-child{-webkit-transition-delay:0.3s;-o-transition-delay:0.3s;transition-delay:0.3s;height:3px;-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);width:100%;}
 .col-md-none{display:none;}
 @media (max-width:991px){.desctop-none{display:block;float:left;margin-right:20px;}
-.menu{display:none;}
+.menu{display:none;}.right-container-img{margin-left: 30%;}
 .col-sm-none{display:none;}
 .visit{text-align:center;}
 .min-margin{margin:0;}
 }
-@media (max-width:767px){.min-margin{padding:0 20px;}
+@media (max-width:767px){.min-margin{padding:0 20px;}.right-container-img{margin-left:0;}
 .col-xs-none{display:none;}
 .col-md-none{display:block;}
 .cont-right{margin:0 24px;}
